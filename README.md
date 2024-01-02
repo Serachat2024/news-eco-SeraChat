@@ -23,24 +23,3 @@
 
 </body>
 </html>
-
-comment creer lien
-ChatGPT
-Pour créer un lien hypertexte en HTML, vous utilisez la balise <a> (ancre) avec l'attribut href pour spécifier l'URL vers laquelle le lien doit pointer. Voici un exemple simple :
-
-html
-Copy code
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Exemple de lien HTML</title>
-</head>
-<body>
-
-<!-- Créez un lien vers https://www.cashbackforex.com -->
-<a href="https://www.cashbackforex.com" target="_blank">Visitez Cashback Forex</a>
-
-</body>
-</html>
